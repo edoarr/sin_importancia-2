@@ -1,2 +1,2 @@
 # sin_importancia-2
-Entendiendo la tecnología
+Entendiendo la tecnología :P
